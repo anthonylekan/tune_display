@@ -1,2 +1,3 @@
 # Tune Display
-Music Visualization website
+
+A music vilualizer web application that integrates with Spotify.
